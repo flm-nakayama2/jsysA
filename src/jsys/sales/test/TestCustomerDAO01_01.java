@@ -1,10 +1,10 @@
-///**
-// * All Rights Reserved, Copyright(c) Fujitsu Learning Media Limited
-// *
-// * TestCustomerDAO01_01.java
-// *
-// */
-//
+/**
+ * All Rights Reserved, Copyright(c) Fujitsu Learning Media Limited
+ *
+ * TestCustomerDAO01_01.java
+ *
+ */
+
 //package jsys.sales.test;
 //
 //import java.sql.Connection;
